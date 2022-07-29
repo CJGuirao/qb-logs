@@ -1,6 +1,8 @@
 # qb-logs
 Discord Logging System For QB-Core
 
+# Modified:
+Modified to upload a copy of the messages to a database
 # License
 
     QBCore Framework
